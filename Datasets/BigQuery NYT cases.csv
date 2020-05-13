@@ -1,0 +1,300 @@
+﻿province_state,Record Count
+null,12195
+Texas,10142
+Georgia,7877
+Virginia,6548
+Kentucky,5271
+Missouri,4884
+North Carolina,4789
+Tennessee,4772
+Indiana,4592
+Illinois,4579
+Iowa,4324
+Ohio,4320
+Michigan,4084
+Mississippi,4082
+Kansas,3828
+Minnesota,3821
+Arkansas,3578
+Oklahoma,3465
+Pennsylvania,3366
+Alabama,3361
+Florida,3352
+Wisconsin,3335
+Louisiana,3235
+Nebraska,3001
+New York,2995
+Colorado,2948
+California,2756
+South Dakota,2405
+West Virginia,2391
+South Carolina,2323
+Washington,1979
+North Dakota,1867
+Idaho,1818
+Montana,1713
+Oregon,1614
+New Mexico,1479
+Maryland,1243
+New Jersey,1112
+Wyoming,1109
+Utah,952
+Maine,834
+Arizona,816
+Alaska,810
+Vermont,745
+Nevada,737
+Massachusetts,731
+New Hampshire,552
+Connecticut,454
+Rhode Island,312
+Hawaii,305
+Delaware,203
+Diamond Princess,114
+Grand Princess,114
+Gansu,112
+Hebei,112
+Guangxi,110
+Guangdong,110
+Liaoning,110
+Henan,110
+Hunan,110
+Hubei,110
+Zhejiang,110
+Anhui,110
+Shanghai,110
+Hong Kong,110
+Tianjin,110
+Beijing,110
+Shandong,110
+Chongqing,110
+Ningxia,110
+Jiangxi,110
+Hainan,110
+Inner Mongolia,110
+Macau,110
+Fujian,110
+Jiangsu,110
+Shanxi,110
+Jilin,110
+Qinghai,110
+Yunnan,110
+Guizhou,110
+Heilongjiang,110
+Xinjiang,110
+Sichuan,110
+Shaanxi,110
+Victoria,105
+New South Wales,105
+Tibet,104
+British Columbia,104
+Queensland,102
+South Australia,100
+Recovered,96
+Ontario,72
+Western Australia,72
+Tasmania,70
+Northern Territory,68
+District of Columbia,63
+Quebec,63
+Alberta,63
+Gibraltar,61
+Channel Islands,61
+Saint Barthelemy,61
+New Brunswick,61
+Faroe Islands,61
+St Martin,61
+French Polynesia,59
+Manitoba,59
+Saskatchewan,59
+Australian Capital Territory,59
+Puerto Rico,58
+Mayotte,57
+Guam,57
+Prince Edward Island,57
+Newfoundland and Labrador,57
+French Guiana,57
+Cayman Islands,56
+Curacao,56
+Guadeloupe,56
+Reunion,55
+Aruba,54
+Montserrat,54
+Virgin Islands,54
+New Caledonia,53
+Nova Scotia,53
+Bermuda,53
+Greenland,53
+Sint Maarten,52
+Isle of Man,52
+Martinique,50
+Northern Mariana Islands,50
+Taiwan,49
+Northwest Territories,48
+Yukon,46
+British Virgin Islands,44
+Anguilla,44
+Turks and Caicos Islands,44
+"Bonaire, Sint Eustatius and Saba",39
+"Los Angeles, CA",38
+"San Benito, CA",36
+Saint Pierre and Miquelon,36
+"Tempe, AZ",35
+"Santa Clara, CA",35
+From Diamond Princess,35
+"London, ON",34
+"Boston, MA",34
+Falkland Islands (Malvinas),34
+"Toronto, ON",34
+"Madison, WI",34
+"Orange, CA",32
+Diamond Princess cruise ship,31
+"Seattle, WA",30
+"Chicago, IL",30
+"San Diego County, CA",28
+"San Antonio, TX",26
+"Humboldt County, CA",18
+"Sacramento County, CA",18
+"Travis, CA (From Diamond Princess)",17
+"Lackland, TX (From Diamond Princess)",17
+"Omaha, NE (From Diamond Princess)",17
+Unassigned Location (From Diamond Princess),15
+Denmark,11
+France,11
+"Snohomish County, WA",10
+" Montreal, QC",10
+United Kingdom,9
+American Samoa,9
+"Grafton County, NH",8
+"Sonoma County, CA",8
+"Placer County, CA",8
+"Hillsborough, FL",8
+"King County, WA",8
+"Cook County, IL",8
+"Sarasota, FL",8
+"San Mateo, CA",8
+"Umatilla, OR",8
+"Maricopa County, AZ",7
+"Fulton County, GA",7
+"Wake County, NC",7
+"Westchester County, NY",7
+"Washington County, OR",7
+"Orange County, CA",6
+"Providence, RI",6
+Netherlands,6
+"Contra Costa County, CA",6
+" Norfolk County, MA",5
+"Fort Bend County, TX",5
+"Harris County, TX",5
+"Bergen County, NJ",5
+"Grant County, WA",5
+"Clark County, NV",5
+"San Francisco County, CA",5
+"Williamson County, TN",5
+"Santa Rosa County, FL",5
+"Middlesex County, MA",4
+Bavaria,4
+"New York County, NY",4
+"Delaware County, PA",4
+"Suffolk County, MA",4
+"Fayette County, KY",4
+"Douglas County, NE",4
+"Chatham County, NC",4
+"Washoe County, NV",4
+"Summit County, CO",4
+"Ramsey County, MN",4
+"Marion County, IN",4
+US,4
+"New York City, NY",4
+"Nassau County, NY",4
+"Denver County, CO",4
+"Wayne County, PA",4
+"Yolo County, CA",4
+"Berkeley, CA",4
+United States Virgin Islands,4
+"Unassigned Location, WA",4
+"Montgomery County, MD",4
+"Jefferson County, WA",3
+"Fairfield County, CT",3
+"Plymouth County, MA",3
+"Saratoga County, NY",3
+"Rockland County, NY",3
+"Jackson County, OR ",3
+"Honolulu County, HI",3
+None,3
+"Kershaw County, SC",3
+"Klamath County, OR",3
+"Douglas County, CO",3
+"El Paso County, CO",3
+"Broward County, FL",3
+"Alameda County, CA",3
+"Pierce County, WA",3
+"Madera County, CA",3
+"Tulsa County, OK",3
+"Pinal County, AZ",3
+"Clark County, WA",3
+"Davis County, UT",3
+"Calgary, Alberta",3
+"Cobb County, GA",3
+"Lee County, FL",3
+Falkland Islands (Islas Malvinas),3
+"Portland, OR",3
+Grand Princess Cruise Ship,3
+"Santa Clara County, CA",3
+"Providence County, RI",3
+"Montgomery County, TX",3
+"Charleston County, SC",3
+"Riverside County, CA",2
+"Hendricks County, IN",2
+"Berkshire County, MA",2
+"Okaloosa County, FL",2
+"Kittitas County, WA",2
+"Davidson County, TN",2
+"Volusia County, FL",2
+"Suffolk County, NY",2
+"Spokane County, WA",2
+"Norfolk County, MA",2
+"Manatee County, FL",2
+"Johnson County, KS",2
+"Harford County, MD",2
+"Douglas County, OR",2
+"Fairfax County, VA",2
+"Ulster County, NY",2
+"Shelby County, TN",2
+"Marion County, OR",2
+UK,2
+"Hudson County, NJ",2
+"Fresno County, CA",2
+"Edmonton, Alberta",2
+"Polk County, GA",2
+"Washington, D.C.",2
+"Floyd County, GA",2
+"Rockingham County, NH",2
+Cruise Ship,2
+"Montgomery County, PA",2
+"Virgin Islands, U.S.",2
+"Unknown Location, MA",2
+"St. Louis County, MO",2
+"Jefferson Parish, LA",1
+"Jefferson County, KY",1
+"Charlotte County, FL",1
+"Harrison County, KY",1
+"Cherokee County, GA",1
+"Norwell County, MA",1
+"Johnson County, IA",1
+"Shasta County, CA",1
+"Queens County, NY",1
+"Collin County, TX",1
+"Carver County, MN",1
+Jervis Bay Territory,1
+External territories,1
+Wuhan Evacuee,1
+"Lackland, TX",1
+Fench Guiana,1
+"Unassigned Location, VT",1
+"Spartanburg County, SC",1
+"Santa Cruz County, CA",1
+"Bennington County, VT",1
+"Ashland, NE",1
+"Travis, CA",1
+Chicago,1
